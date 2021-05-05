@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Arrays;
 import java.util.List;
 
-
+// 생성자 주입 방식 
 @RequiredArgsConstructor
 @RestController
 public class ProfileController {
