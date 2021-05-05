@@ -6,6 +6,7 @@ branches:
   only:
     - master
 
+#Travis와 git연동하여  git에 push되면 Travis에서 빌드함.
 # Travis CI 서버의 Home
 cache:
   directories:
